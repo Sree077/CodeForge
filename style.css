@@ -1,6 +1,7 @@
 
 h1,h3 , div{
     text-align: center;
-    display: inline-block;    
-
 }
+div{
+    display: inline-block;    
+}    

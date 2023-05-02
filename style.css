@@ -1,8 +1,17 @@
 h1,h3{
     text-align: center;
+
 }
-div{
-    display:flex;
-align-item:center;
-min-height:100vh;
+.circle{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    border: 1px solid;
+    border-color: aqua;
+}
+ul {
+    
+    padding: 10px;
+    font-size: 1.2em;
 }
